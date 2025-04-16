@@ -1,4 +1,4 @@
-package com.matapp.weatherapp.presentation.ui.theme
+package com.matapp.weatherapp.feature.weather.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

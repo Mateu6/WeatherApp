@@ -1,4 +1,4 @@
-package com.matapp.weatherapp.domain.weather
+package com.matapp.weatherapp.feature.weather.domain.weather
 
 import androidx.annotation.DrawableRes
 import com.matapp.weatherapp.R
